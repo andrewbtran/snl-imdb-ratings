@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1477782175044.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "75D4A1F7",
+    "lastKnownWriteTime" : -8059469662325112768,
+    "last_content_update" : 1477782175044,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D5FCF2CF",
+        "caption" : "rankings",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rankings&cache_key=D5FCF2CF",
+        "displayedObservations" : "128154",
+        "environment" : "",
+        "object" : "rankings",
+        "preview" : "0",
+        "totalObservations" : "128154",
+        "variables" : "12"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

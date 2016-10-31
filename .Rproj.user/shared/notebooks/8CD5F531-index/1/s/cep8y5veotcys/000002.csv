@@ -1,0 +1,6 @@
+"0","rankings_year_host <- rankings %>%"
+"0","  mutate(rawish=votes*rating) %>%"
+"0","  group_by(ep, host) %>%"
+"0","  summarise(average=sum(rawish, na.rm=T)/sum(votes, na.rm=T), votes=sum(votes, na.rm=T)) %>%"
+"0","  arrange(average)"
+"0","kable(head(rankings_year_host, 10))"

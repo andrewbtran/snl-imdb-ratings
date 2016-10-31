@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1477883868085.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FFB115AE",
+    "lastKnownWriteTime" : 4598333440,
+    "last_content_update" : 1477883868085,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "19F6C7C5",
+        "caption" : "betty",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=betty&cache_key=19F6C7C5",
+        "displayedObservations" : 148,
+        "environment" : "",
+        "object" : "betty",
+        "preview" : 0,
+        "totalObservations" : 148,
+        "variables" : 12
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

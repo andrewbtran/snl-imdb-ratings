@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1477882977674.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ECB13824",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1477882977674,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "74C2FA8F",
+        "caption" : "rankings_year_season_groups",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rankings_year_season_groups&cache_key=74C2FA8F",
+        "displayedObservations" : 588,
+        "environment" : "",
+        "object" : "rankings_year_season_groups",
+        "preview" : 0,
+        "totalObservations" : 588,
+        "variables" : 4
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
